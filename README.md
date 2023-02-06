@@ -7,5 +7,8 @@ those ran in fuzzbunch. For those who don't know, fuzzbunch contains a wide rang
 Currently Coldheart only supports two exploits: Eternalblue, and Doublepulsar (used to hack windows machines) and a 
 few 'touch' programs for information gathering. More exploits to be added soon.
 
+EDIT:
+  In hindsight, this needs major fixes/changes. Code is pretty sloppy. I'll probably re-make ColdHeart better in my IntentLimit project.
+
 Creators:
 @elijah__bennett0 (instagram)
